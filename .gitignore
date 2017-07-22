@@ -1,0 +1,46 @@
+# exp cache
+
+/exp/*/cache
+/system/global_settings.m
+/visualization/extra_result_cache
+
+# stage definition
+
+# local files #
+etc/global_settings.m
+etc/global_settings.m.*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.mex*
+*.bin
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files #
+################
+*~
+*.bak
+
+# Ignored #
+###########
+.ignore
+
+# tmp files #
+#############
+*.swp
+
